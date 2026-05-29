@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "LockGuard RL-X: A Governance Runtime for Real-Time Detection and Containment of Adversarial Irreversibility in Multi-Agent Financial Systems"
+authors:
+  - family-names: "Fiol Reyes"
+    given-names: "Uberlandis"
+    affiliation: "LockGuard AI, Inc."
+    country: "Cuba"
+    orcid: ""  # Puedes agregar tu ORCID si tienes
+version: "1.0.0"
+doi: "10.5281/zenodo.20436834"
+date-released: "2026-05-29"
+url: "https://github.com/uberlandisfiolreyes74-spec/lockguard-rl-x"
+license: "MIT"
+keywords:
+  - "multi-agent reinforcement learning"
+  - "adversarial MARL"
+  - "AI governance"
+  - "safe RL"
+  - "irreversibility"
+  - "financial AI"
+  - "coalition detection"
