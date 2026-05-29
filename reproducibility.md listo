@@ -1,0 +1,24 @@
+# Reproducibility Statement
+
+This document describes how to reproduce all experiments and results presented in the paper **"LockGuard RL-X: A Governance Runtime for Real-Time Detection and Containment of Adversarial Irreversibility in Multi-Agent Financial Systems"**.
+
+## 📋 General Information
+
+- **Paper DOI**: [10.5281/zenodo.20436834](https://doi.org/10.5281/zenodo.20436834)
+- **Repository**: https://github.com/uberlandisfiolreyes74-spec/lockguard-rl-x
+- **Date**: May 29, 2026
+- **Author**: Uberlandis Fiol Reyes
+
+## 🛠️ Environment Setup
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/uberlandisfiolreyes74-spec/lockguard-rl-x.git
+cd lockguard-rl-x
+
+# 2. Create and activate environment
+conda env create -f environment.yml
+conda activate lockguard-rlx
+
+# Alternative with pip
+pip install -r requirements.txt
